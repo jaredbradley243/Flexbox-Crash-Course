@@ -91,6 +91,11 @@ ul{
     align-items: center;
 }
 
+.header .container b{
+    color: #CC7C01;
+    padding-right: 3px;
+}
+
 .boxes .container{
     display: flex;
     justify-content: space-between;
