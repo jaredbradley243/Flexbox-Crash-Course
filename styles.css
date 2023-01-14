@@ -174,8 +174,8 @@ ul{
     .footer .container a{
         font-size: 0.93rem;
     }
-    }
 }
+
 
 @media ((max-width: 1100px) and (min-width: 768px)){
     .footer{
