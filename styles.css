@@ -93,9 +93,10 @@ ul{
     align-items: center;
 }
 
-.header .container b{
+.header .container a{
     color: #CC7C01;
     padding-right: 3px;
+    text-decoration: none;
 }
 
 .boxes .container{
