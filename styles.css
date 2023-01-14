@@ -70,6 +70,7 @@ ul{
 }
 
 .header{
+    display: flex;
     background-color: #0151cc;
     color: white;
     min-height: 400px;
@@ -83,6 +84,7 @@ ul{
 
 .header img{
     max-width: 400px;
+    padding: 0px 0px 0px 125px;
 }
 
 .header .container{
@@ -127,5 +129,9 @@ ul{
     .boxes .container{
         display: block;
         text-align: center;
+    }
+
+    .header .container img{
+        padding: 62.5px 62.5px 62.5px 62.5px;
     }
 }
