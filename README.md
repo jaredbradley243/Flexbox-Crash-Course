@@ -12,8 +12,7 @@ https://www.theodinproject.com/lessons/foundations-alignment
 To build a responsive static webpage with a modern layout using CSS Flexbox as the primary layout method.  
 ## Preview
 
-![image](https://user-images.githubusercontent.com/107898107/212498209-1babd4c8-46e7-45bf-a729-2c08f02fdb5b.png)
-
+![image](https://user-images.githubusercontent.com/107898107/212531396-ba2f4877-2486-400a-9150-8a2f05e8fdce.png)
 
 ### Technologies:
 
